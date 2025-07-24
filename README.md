@@ -29,7 +29,7 @@
 ###
 
 <p align="left">
-  ✨ Criando bugs desde 2021.<br>
+  ✨ Mestrando em Inovação em Tecnologias Educacionais UFRN.<br>
   🎓 Bacharel em Ciência da Computação 2024 UERN Natal/RN.<br>
   📚 Atualmente, tanto no trabalho quanto em projetos pessoais, desenvolvo aplicações full-stack usando React, TypeScript, Node, Prisma e PostgreSQL.<br>
   🎯 Objetivo: Construir soluções que impactem positivamente a vida e experiência das pessoas.<br>
